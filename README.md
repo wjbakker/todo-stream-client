@@ -21,7 +21,7 @@ try(stream) {
 
 **Then** the following output is produced:
 
-```json
+```
 Todo{title='Present at JFall', completed=false, order=3}
 Todo{title='Celebrate success', completed=false, order=4}
 ```
